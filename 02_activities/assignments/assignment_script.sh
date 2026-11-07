@@ -55,4 +55,5 @@ ls -lR ./data/processed/ > ./data/inventory.txt
 
 ###########################################
 
+
 echo "Project setup is complete!"
